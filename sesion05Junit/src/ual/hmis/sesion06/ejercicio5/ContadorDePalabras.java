@@ -1,4 +1,4 @@
-package ual.hmis.sesion06.ejercicio05;
+package ual.hmis.sesion06.ejercicio5;
 
 import java.io.BufferedReader;
 import java.io.BufferedWriter;

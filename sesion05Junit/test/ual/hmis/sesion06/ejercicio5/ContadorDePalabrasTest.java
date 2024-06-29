@@ -1,4 +1,4 @@
-package ual.hmis.sesion06.ejercicio05;
+package ual.hmis.sesion06.ejercicio5;
 
 import static org.junit.Assert.assertEquals;
 
@@ -10,6 +10,8 @@ import java.util.List;
 
 import org.junit.jupiter.params.ParameterizedTest;
 import org.junit.jupiter.params.provider.CsvSource;
+
+import ual.hmis.sesion06.ejercicio5.ContadorDePalabras;
 
 public class ContadorDePalabrasTest {
 
