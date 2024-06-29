@@ -1,4 +1,4 @@
-package ual.hmis.sesion05;
+package ual.hmis.sesion06.ejercicio1;
 
 public class Ejercicio1{
 	public int transformar (int x) {
